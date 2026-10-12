@@ -1,5 +1,5 @@
 {
-  "_說明": "每張圖的資料。路徑相對於這個資料夾。artist 空白＝作者不明。網站的 Fan art 頁面從這個檔案讀。新增圖檔後在 works 補一筆即可，沒補的圖也會出現在網站上（作者從檔名取），但建議補上。",
+  "_說明": "每張圖的作者。路徑相對於這個資料夾。artist 空白＝不知道作者，網站就不標。網站不替圖加標題，只標是誰畫的。新增圖檔後在 works 補一筆即可，沒補的圖也會出現在網站上（作者從檔名取）。",
   "themes": {
     "outfit-prediction-2026": {
       "zh": "新衣裝預測圖",
@@ -16,33 +16,23 @@
   "works": [
     {
       "file": "general/楊司彌_デビューおめでとう.jpg",
-      "artist": "楊司彌",
-      "zh": "出道祝賀",
-      "ja": "デビューおめでとう"
+      "artist": "楊司彌"
     },
     {
       "file": "general/akiguri_祝デビュー.jpg",
-      "artist": "akiguri",
-      "zh": "祝出道",
-      "ja": "祝デビュー"
+      "artist": "akiguri"
     },
     {
       "file": "general/鬼蝠魟_空洞騎士圖鑑.jpg",
-      "artist": "鬼蝠魟",
-      "zh": "空洞騎士風格的圖鑑",
-      "ja": "ホロウナイト風の図鑑"
+      "artist": "鬼蝠魟"
     },
     {
       "file": "general/鬼蝠魟_毛豆.jpg",
-      "artist": "鬼蝠魟",
-      "zh": "毛豆",
-      "ja": "枝豆"
+      "artist": "鬼蝠魟"
     },
     {
       "file": "general/曉雄Chausson_一萬訂閱.jpg",
       "artist": "曉雄™ Chausson",
-      "zh": "一萬訂閱紀念",
-      "ja": "登録者1万人記念",
       "date": "20251006",
       "alt": "general/曉雄Chausson_一萬訂閱_無文字.jpg",
       "alt_zh": "無文字版",
@@ -50,45 +40,31 @@
     },
     {
       "file": "general/想貓_生日快樂.jpg",
-      "artist": "想貓",
-      "zh": "生日快樂",
-      "ja": "お誕生日おめでとう"
+      "artist": "想貓"
     },
     {
       "file": "general/楊司彌_Q版配色.jpg",
-      "artist": "楊司彌",
-      "zh": "Q 版和配色",
-      "ja": "ちびキャラと配色"
+      "artist": "楊司彌"
     },
     {
       "file": "general/鬼蝠魟_冒頭.jpeg",
-      "artist": "鬼蝠魟",
-      "zh": "冒頭",
-      "ja": ""
+      "artist": "鬼蝠魟"
     },
     {
       "file": "general/鬼蝠魟_毛豆妖怪.jpeg",
-      "artist": "鬼蝠魟",
-      "zh": "毛豆妖怪",
-      "ja": "枝豆怪獣"
+      "artist": "鬼蝠魟"
     },
     {
       "file": "general/鬼蝠魟_節奏天國.jpeg",
-      "artist": "鬼蝠魟",
-      "zh": "節奏天國",
-      "ja": "リズム天国"
+      "artist": "鬼蝠魟"
     },
     {
       "file": "general/風聲雲起.png",
-      "artist": "風聲雲起",
-      "zh": "",
-      "ja": ""
+      "artist": "風聲雲起"
     },
     {
       "file": "general/作者不明_素描.jpeg",
-      "artist": "",
-      "zh": "素描",
-      "ja": "スケッチ"
+      "artist": ""
     },
     {
       "file": "themes/outfit-prediction-2026/楊司彌_預測圖.jpg",
@@ -102,9 +78,7 @@
     },
     {
       "file": "general/哥吉拉GODZILLA_線稿.jpeg",
-      "artist": "哥吉拉·GODZILLA",
-      "zh": "線稿",
-      "ja": "線画"
+      "artist": "哥吉拉·GODZILLA"
     },
     {
       "file": "themes/outfit-prediction-2026/cozy_life_預測圖.jpg",
