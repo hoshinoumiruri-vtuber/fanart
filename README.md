@@ -1,12 +1,12 @@
 # 星ノ海琉璃 Fan art
 
-收集大家送給星ノ海琉璃的圖。感謝每一位繪師。
-A collection of fan art for Hoshinoumi Ruri. Thank you to every artist.
-星ノ海琉璃へのファンアートを集めています。描いてくださったすべての方に感謝します。
+收集大家送給星ノ海琉璃的圖。謝謝大家！
+A collection of fan art for Hoshinoumi Ruri. Thank you, everyone!
+星ノ海琉璃へのファンアートを集めています。ありがとうございます！
 
-這些圖的著作權屬於各位繪師，請不要轉載、加工或用於 AI 學習。
-The copyright of each picture belongs to its artist. Please do not repost, edit or use them for AI training.
-各イラストの著作権は描いてくださった方にあります。無断転載・加工・AI学習への利用はご遠慮ください。
+這些圖的著作權屬於原作者，請不要轉載、加工或用於 AI 學習。
+The copyright of each picture belongs to its creator. Please do not repost, edit or use them for AI training.
+各イラストの著作権は描いた方にあります。無断転載・加工・AI学習への利用はご遠慮ください。
 
 網站：<https://hoshinoumiruri-vtuber.github.io/fanart/>
 
